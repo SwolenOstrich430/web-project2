@@ -6,7 +6,3 @@ Pillow is a miniature Zillow clone that allows users to search for homes by addr
 
 ## Demo
 ![](Pillow.gif)
-
-## Heroku Deployment
-
-https://web-project2.herokuapp.com/
